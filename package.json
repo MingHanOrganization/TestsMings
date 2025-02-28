@@ -1,0 +1,21 @@
+{
+  "name": "testsmings",
+  "version": "1.0.0",
+  "description": "Alteracao MingRenanHan commit 1",
+  "main": "index.js",
+  "scripts": {
+    "start": " node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MingRenan/TestsMings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MingRenan/TestsMings/issues"
+  },
+  "homepage": "https://github.com/MingRenan/TestsMings#readme"
+}
